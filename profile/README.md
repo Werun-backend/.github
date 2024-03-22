@@ -15,3 +15,7 @@
 若实验室成员想要获取权限，请联系21级或22级主席~
 
 22级主席邮箱：donniezfr@foxmail.com
+
+### 新人指南
+
+请前往resource私有仓库，修改README，将github用户名与真实姓名对应。
