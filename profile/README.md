@@ -22,4 +22,4 @@
 
 2. `resource` 私有仓库为实验室相关资料，其余均为项目代码文件，请不要外传。
 
-> 感谢 [@YCP991](https://github.com/YCP991) 的头像设计工作！
+> 感谢 [ChampionYang](https://github.com/YCP991) 同学作出的的头像设计工作！
