@@ -8,7 +8,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-## WeRun 后端项目资料仓库
+# WeRun 后端项目资料仓库
 
 欢迎来到HITWH威软俱乐部后端方向的项目资料仓库！
 
@@ -18,10 +18,8 @@
 
 22级主席邮箱：donniezfr@foxmail.com
 
-### 新人指南
+## 实验室共享资源仓库
 
-1. 请联系拉你进仓库的同学，让他修改你的resource仓库权限信息（将你拉入Team "Allmembers"），然后前往resource私有仓库，修改README，将github用户名与真实姓名对应。
-
-2. `resource` 私有仓库为实验室相关资料，其余均为项目代码文件，请不要外传。
+- 实验室技术分享、参考资料、往年纳新题等资料：https://github.com/Werun-backend/resource
 
 > 感谢 [ChampionYoung](https://github.com/YCP991) 同学作出的的头像设计工作！
