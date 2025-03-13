@@ -14,7 +14,7 @@
 
 部分开源仓库是我们正在进展的成果，欢迎向我们的开源项目做出贡献，如 [Andulir](https://github.com/Werun-backend/Andulir) 
 
-所有需要保密的项目均为组织私有。若实验室成员想要获取read权限，请联系22级主席~
+所有需要保密的项目均为组织私有。若实验室成员想要获取read权限，请联系23级主席~
 
 22级主席邮箱：donniezfr@foxmail.com
 
